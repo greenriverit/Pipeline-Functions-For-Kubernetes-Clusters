@@ -1,0 +1,53 @@
+Pipeline Functions For Kubernetes Clusters (Licensed Product) and other 
+elements of the Agile Cloud Manager (Licensed Product) are protected by 
+copyright, and are distributed under the following terms.  
+  
+Pipeline Functions For Kubernetes Clusters is an element of the Agile Cloud 
+Manager, developed and copyrighted by Green River IT Incorporated 
+(Green River IT). Pipeline Functions For Kubernetes Clusters is intended to 
+automate the work of creating remote admistration machines for managing the 
+contents of Kubernetes clusters that will be created and managed by the Agile 
+Cloud Manager.  
+  
+Since Pipeline Functions For Kubernetes Clusters is open source and free of 
+licensing fees, you are free to use, modify, and distribute the source 
+code, as long as you include this copyright statement.  
+  
+In particular, you can use Pipeline Functions For Kubernetes Clusters to 
+build proprietary software and are under no obligation to redistribute 
+any of your source code that is built using Pipeline Functions For Kubernetes 
+Clusters. Note however, that you may not do anything to the 
+Pipeline Functions For Kubernetes Clusters code, such as copyrighting it yourself or 
+claiming authorship of the Pipeline Functions For Kubernetes Clusters code, 
+that will prevent Pipeline Functions For Kubernetes Clusters from being
+distributed freely using an open source development model.  
+  
+Warranty  
+  
+LICENSED PRODUCT IS PROVIDED AS IS WITH NO WARRANTIES OF ANY KIND
+INCLUDING THE WARRANTIES OF DESIGN, MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE, NON-INFRINGEMENT, OR ARISING FROM A COURSE OF
+DEALING, USAGE OR TRADE PRACTICE.  
+  
+Support  
+  
+LICENSED PRODUCT IS PROVIDED WITH NO SUPPORT AND WITHOUT ANY
+OBLIGATION ON THE PART OF GREEN RIVER IT OR ANY OF ITS SUBSIDIARIES 
+OR AFFILIATES TO ASSIST IN ITS USE, CORRECTION, MODIFICATION OR ENHANCEMENT.  
+  
+Support may be available from Green River IT to users who have agreed to a
+support contract.  
+  
+Liability  
+  
+GREEN RIVER IT OR ANY OF ITS SUBSIDIARIES OR AFFILIATES SHALL HAVE NO LIABILITY
+WITH RESPECT TO THE INFRINGEMENT OF COPYRIGHTS, TRADE SECRETS OR ANY
+PATENTS BY LICENSED PRODUCT OR ANY PART THEREOF.  
+  
+IN NO EVENT WILL GREEN RIVER IT OR ANY OF ITS SUBSIDIARIES OR AFFILIATES BE
+LIABLE FOR ANY LOST REVENUE OR PROFITS OR OTHER SPECIAL, INDIRECT AND
+CONSEQUENTIAL DAMAGES, EVEN IF GREEN RIVER IT HAS BEEN ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGES.  
+  
+Pipeline Functions For Kubernetes Clusters copyright Green River IT. Placerville CA USA, 2019.  
+Agile Cloud Manager copyright Green River IT. Placerville CA USA, 2019.  
