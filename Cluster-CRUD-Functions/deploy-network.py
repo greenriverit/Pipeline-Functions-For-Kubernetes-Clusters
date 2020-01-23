@@ -227,6 +227,8 @@ def transferTheKey(remoteIP, keyToMove, keyToUse, remoteUser):
         thetext=line.decode('utf-8').rstrip('\r|\n')
         decodedline=ansi_escape.sub('', thetext)
         print(decodedline)
+        if "Permission denied" in decodedline:  
+          print("The check for Permission denied works!  Now in the logical block which can be programmed to handle that.")
       else:
         break
 
